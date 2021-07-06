@@ -17,3 +17,9 @@ main h1{
     box-shadow: 3px 3px 3px 3px black;
     text-indent: 45px;
 }
+.navbar .navbar-nav {
+    position: relative;
+    float: none;
+    text-align: center;
+    margin: auto;
+}
